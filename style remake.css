@@ -1,0 +1,16 @@
+body{
+    backround-image: linear-gradient(90deg, white, #2eacd4);
+     font-family: 'Times New Roman', Times, serif;
+}
+
+#paraFunc2{
+    color: rgb(#ff00ff);
+
+} 
+
+
+#countdownStatus{
+    color: red;
+  
+}
+
